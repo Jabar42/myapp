@@ -1,0 +1,15 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "Mi aplicación Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    // Aquí puedes añadir tus dependencias, por ejemplo:
+    // "express": "^4.17.1"
+  },
+  "author": "Tu Nombre",
+  "license": "ISC"
+}
